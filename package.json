@@ -12,7 +12,7 @@
     "axios": "^0.19.0",
     "formik": "^1.5.8",
     "react": "16.8.6",
-    "react-native": "0.60.5",
+    "react-native": "0.62.3",
     "react-native-dropdownalert": "^4.1.1",
     "react-native-keyboard-aware-scroll-view": "^0.9.1",
     "react-native-material-menu": "^0.6.6",
